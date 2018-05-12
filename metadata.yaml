@@ -1,0 +1,63 @@
+_repo: Ehstnische-M-rchen_21658
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Köhler, Reinhold
+    aliases:
+    - Köhler, R. (Reinhold)
+    - Kohler, Reinhold
+    birthdate: 1830
+    deathdate: 1892
+    gutenberg_agent_id: '24842'
+    url: http://www.gutenberg.org/2009/agents/24842
+  - agent_name: Schiefner, Anton
+    aliases:
+    - Schiefner, Franz Anton
+    - Schiefner, A. (Anton)
+    birthdate: 1817
+    deathdate: 1879
+    gutenberg_agent_id: '24841'
+    url: http://www.gutenberg.org/2009/agents/24841
+  translator:
+    agent_name: Löwe, F. (Ferdinand)
+    aliases:
+    - Löwe, Ferdinand
+    - Lowe, F. (Ferdinand)
+    gutenberg_agent_id: '24843'
+    url: http://www.gutenberg.org/2009/agents/24843
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kreutzwald, Friedrich Reinhold
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '36359'
+    url: http://www.gutenberg.org/2009/agents/36359
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21658'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Estonia'
+- !lcc 'PG'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Estonia'
+tableOfContents: "1. Die Goldspinnerinnen\r\n2. Die im Mondschein badenden Jungfrauen\r\
+  \n3. Schnellfuß, Flinkhand und Scharfauge\r\n4. Der Tontlawald\r\n5. Der Waise Handmühle\r\
+  \n6. Die zwölf Töchter\r\n7. Wie eine Waise unverhofft ihr Glück fand\r\n8. Schlaukopf\r\
+  \n9. Der Donnersohn\r\n10. Pikne's Dudelsack\r\n11. Der Zwerge Streit\r\n12. Die\
+  \ Galgenmännlein\r\n13. Wie eine Königstochter sieben Jahre geschlafen\r\n14. Der\
+  \ dankbare Königssohn\r\n15. Rõugatajas Tochter\r\n16. Die Meermaid\r\n17. Die Unterirdischen\r\
+  \n18. Der Nordlands-Drache\r\n19. Das Glücksei\r\n20. Der Frauenmörder\r\n21. Der\
+  \ herzhafte Riegenaufseher\r\n22. Wie ein Königssohn als Hüterknabe aufwuchs\r\n\
+  23. Dudelsack-Tiidu\r\n24. Die aus dem Ei entsprossene Königstochter"
+title: Ehstnische Märchen
+url: http://www.gutenberg.org/ebooks/21658
