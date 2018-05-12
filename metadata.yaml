@@ -36,6 +36,8 @@ creator:
     gutenberg_agent_id: '36359'
     url: http://www.gutenberg.org/2009/agents/36359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21658#Ehstnische-M-rchen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2007-06-01'
 gutenberg_type: Text
